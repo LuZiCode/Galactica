@@ -1,0 +1,15 @@
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\bin\Debug\net6.0\Galactica.exe
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\bin\Debug\net6.0\Galactica.deps.json
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\bin\Debug\net6.0\Galactica.runtimeconfig.json
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\bin\Debug\net6.0\Galactica.dll
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\bin\Debug\net6.0\Galactica.pdb
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.AssemblyInfo.cs
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.dll
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\refint\Galactica.dll
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.pdb
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\Galactica.genruntimeconfig.cache
+C:\Users\lucas\Desktop\H1\ObejektOriterendeProgrammering\OOP Praktisk Opgave\Galactica\Galactica\obj\Debug\net6.0\ref\Galactica.dll
